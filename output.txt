@@ -1,0 +1,9 @@
+0 	 0
+1 	 1
+10 	 10
+11 	 11
+global_depth  = 2
+0	 ---> 	4	empty overflow
+1	 ---> 	5	empty overflow
+10	 ---> 	2	14	empty overflow
+11	 ---> 	3	empty overflow

@@ -1,0 +1,9 @@
+insert 2
+insert 4
+insert 6
+insert 3
+insert 5
+insert 14
+delete 6
+status
+

@@ -1,0 +1,80 @@
+4 inserted in 00
+12 inserted in 00
+32 inserted in 00
+16 inserted in 000
+1 inserted in 01
+5 inserted in 01
+10 inserted in 10
+15 inserted in 11
+7 inserted in 11
+19 inserted in 11
+11 inserted in 011
+13 inserted in 01
+9 inserted in 001
+64 inserted in 000
+20 inserted in 100
+30 inserted in 10
+35 inserted in 011
+31 inserted in 111
+22 inserted in 10
+27 inserted in 1011
+
+Directory size = 16
+Global Depth = 4
+000 : 32  16  64  
+001 : 1  9  
+10 : 10  30  22  
+0011 : 19  35  
+100 : 4  12  20  
+101 : 5  13  
+111 : 15  7  31  
+1011 : 11  27  
+16 deleted from bucket 000
+
+Directory size = 16
+Global Depth = 4
+000 : 32  64  
+001 : 1  9  
+10 : 10  30  22  
+0011 : 19  35  
+100 : 4  12  20  
+101 : 5  13  
+111 : 15  7  31  
+1011 : 11  27  
+5 deleted from bucket 101
+
+Directory size = 16
+Global Depth = 4
+000 : 32  64  
+001 : 1  9  
+10 : 10  30  22  
+0011 : 19  35  
+100 : 4  12  20  
+101 : 13  
+111 : 15  7  31  
+1011 : 11  27  
+9 deleted from bucket 001
+
+Directory size = 16
+Global Depth = 4
+000 : 32  64  
+001 : 1  
+10 : 10  30  22  
+0011 : 19  35  
+100 : 4  12  20  
+101 : 13  
+111 : 15  7  31  
+1011 : 11  27  
+10 deleted from bucket 10
+1 deleted from bucket 001
+12 deleted from bucket 100
+
+Directory size = 16
+Global Depth = 4
+000 : 32  64  
+01 : 13  
+10 : 30  22  
+0011 : 19  35  
+100 : 4  20  
+111 : 15  7  31  
+1011 : 11  27  
